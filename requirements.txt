@@ -1,0 +1,7 @@
+torch==2.0.1
+faiss-cpu==1.7.4
+# Uncomment the following line and comment the faiss-cpu line if you want to use faiss-gpu instead
+# faiss-gpu==1.7.4
+numpy==1.24.3
+pandas==2.0.1
+matplotlib==3.7.1
